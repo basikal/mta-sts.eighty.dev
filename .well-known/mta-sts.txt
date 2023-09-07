@@ -1,6 +1,5 @@
 version: STSv1
 mode: testing
-mx: route1.mx.cloudflare.net
-mx: route1.mx.cloudflare.net
-mx: route1.mx.cloudflare.net
+mx: mx1.eighty.dev
+mx: mx2.eighty.dev
 max_age: 86400
