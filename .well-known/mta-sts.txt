@@ -1,5 +1,5 @@
 version: STSv1
 mode: testing
-mx: mx1.eighty.dev
-mx: mx2.eighty.dev
+mx: mx1.forwardemail.net
+mx: mx2.forwardemail.net
 max_age: 86400
